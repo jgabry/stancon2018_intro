@@ -1,0 +1,15 @@
+name: StanCon2018_Intro
+channels:
+    - defaults
+    - conda-forge
+    - r
+dependencies:
+    - bokeh
+    - jupyter
+    - pandas
+    - pystan
+    - r
+    - rpy2
+    - rstudio
+    - r-rstan
+    - statsmodels
