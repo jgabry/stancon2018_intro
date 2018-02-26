@@ -1,6 +1,12 @@
 # stancon2018_intro
-Materials for the StanCon 2018 Intro class, and how to install an environment
+Materials for the StanCon 2018 Intro class for both R and Python users (thanks to @amaloney). 
+See below for how to install an environment
 that can run the notebooks.
+
+**Other resources:**       
+* See the reading-list.html or reading-list.pdf in this repo
+* Aki Vehtari's model selection tutorial from StanCon 2018: https://github.com/avehtari/modelselection_tutorial
+* Bob Carpenter's slides on MCMC convergence from StanCon 2018: http://mc-stan.org/workshops/stancon2018_intro/diagnosing-convergence.pdf
 
 # Installation (macOS using `brew`)
 We will be using `conda` to facilitate the creation of virtual environments,
